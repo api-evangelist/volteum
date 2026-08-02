@@ -1,0 +1,24 @@
+# Volteum
+
+> Volteum is an EV fleet electrification and management software platform. It helps companies plan the transition of vehicle fleets to electric (electrification planning), optimise charging, and monitor mixed fleets live. The platform connects directly to vehicles through OEM APIs (30+ brands) with no hardware installation, tracking mileage, fault codes, charging sessions, maintenance intervals, and costs across electric, diesel, petrol, and hybrid fleets. Volteum is a Techstars portfolio company. It publishes no public developer portal or API documentation; API integration with telematics providers and fleet management systems is offered to customers directly.
+
+## Company
+
+- [Website](https://www.volteum.io/): Fleet electrification and EV fleet management software
+- [About](https://www.volteum.io/about): Company background
+- [Blog](https://www.volteum.io/blog): Fleet electrification news and guides
+- [Contact](https://www.volteum.io/contact): Contact the team
+- [Status](https://status.volteum.io/): Service status page (Better Stack)
+- [LinkedIn](https://www.linkedin.com/company/volteum): Company profile
+- [GitHub](https://github.com/Volteum): GitHub organization (no public repositories)
+- [Privacy Policy](https://www.volteum.io/files/Volteum_Privacy_2022.pdf): Privacy policy (PDF)
+
+## Products
+
+- [Electrification Planning](https://www.volteum.io/products/electrification-planning): Plan the fleet transition to electric
+- [Charging Optimisation](https://www.volteum.io/products/charging-optimisation): Optimise fleet charging
+- [Live Fleet Management](https://www.volteum.io/products/live-fleet-management): Hardware-free live vehicle monitoring via OEM APIs
+
+## APIs
+
+Volteum publishes no public API documentation. No OpenAPI, developer portal, or SDKs were found (docs/api/developer subdomains do not resolve; the GitHub organization has no public repositories).

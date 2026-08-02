@@ -1,8 +1,27 @@
 aid: volteum
 name: Volteum
-description: Volteum is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Volteum provides fleet electrification and EV fleet management software
+  that helps companies plan, execute, and operate the transition of their vehicle
+  fleets to electric. The platform covers electrification planning, charging optimisation,
+  and live fleet management, connecting directly to vehicles through OEM APIs across
+  30+ brands with no hardware installation to track mileage, fault codes, charging
+  sessions, maintenance intervals, and costs across electric, diesel, petrol, and
+  hybrid fleets. Volteum is a Techstars portfolio company and publishes no public
+  developer portal; its telematics and fleet-system API integrations are offered
+  to customers directly.
 url: https://raw.githubusercontent.com/api-evangelist/volteum/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.volteum.io/images/logo.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Electric Vehicles
+- Fleet Management
+- Fleet Electrification
+- EV Charging
+- Telematics
+- Sustainability
+- Transportation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +49,28 @@ maintainers:
 common:
 - type: Website
   url: https://volteum.io/
+- type: Blog
+  url: https://www.volteum.io/blog
+- type: Contact
+  url: https://www.volteum.io/contact
+- type: PrivacyPolicy
+  url: https://www.volteum.io/files/Volteum_Privacy_2022.pdf
+- type: GitHubOrganization
+  url: https://github.com/Volteum
+- type: LinkedIn
+  url: https://www.linkedin.com/company/volteum
+- type: Careers
+  url: https://volteum.notion.site/Volteum-Careers-2c553def962a4c3fb761c0a58ed5dbb2
+- type: StatusPage
+  url: https://status.volteum.io/
+- type: Lifecycle
+  url: lifecycle/volteum-lifecycle.yml
+- type: LLMsTxt
+  url: llms/volteum-llms.txt
+- type: DomainSecurity
+  url: security/volteum-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
